@@ -1,0 +1,282 @@
+html, body {
+  height: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.image7 {
+    display: block;
+    margin-left: 7%;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin-top: -50%;
+    z-index: 4;
+    transform: rotate(-150deg);
+}
+
+.image6 {
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+    width: 90%;
+    height: auto;
+    position: absolute;
+    margin-top: -121%;
+    z-index: 4;
+    transform: rotate(150deg);
+}
+
+.image5 {
+    display: block;
+    margin-left: -10%;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin-top: -320%;
+    z-index: 4;
+    transform: rotate(0deg);
+}
+.image4 {
+    display: block;
+    margin-left: -10%;
+    margin-right: auto;
+    width: 120%;
+    height: auto;
+    position: absolute;
+    margin-top: -200%;
+    z-index: 4;
+    transform: rotate(0deg);
+}
+
+.image3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    position: inherit;
+    margin-top: 5%;
+    z-index: 2;
+    transform: rotate(0deg);
+}
+
+.image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    position: inherit;
+    margin-top: 5%;
+    z-index: 2;
+    transform: rotate(0deg);
+}
+
+
+
+img {display: block;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+height: auto;
+position: inherit;
+margin-top: -10%;
+z-index: 3;
+}
+
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    position: inherit;
+    margin-top: 5%;
+    z-index: 2;
+    transform: rotate(0deg);
+}
+
+body {
+    background-color: black
+}
+
+p {
+    
+    display: block;
+    font-family:"helvetica";
+    font-size: 20pt;
+    z-index: 1;
+    height: auto;
+    position: absolute;
+    margin-top: 85%;
+    margin-left: 18%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: blue;
+
+    
+    
+}
+
+p2 {
+    
+    display: block;
+    font-size: 20pt;
+    z-index: 1;
+    height: auto;
+    position: absolute;
+    margin-top: 220%;
+    margin-left: 13%;
+    font-kerning: 200%;
+    transform: rotate(15deg);
+    color: red;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+p7 {
+    
+    display: block;
+    font-size: 20pt;
+    z-index: 1;
+    height: auto;
+    position: absolute;
+    margin-top: 267%;
+    margin-left: 18%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: blue;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+p8 {
+    
+    display: block;
+    font-size: 20pt;
+    z-index: 1;
+    height: auto;
+    position: absolute;
+    margin-top: 357%;
+    margin-left: 13%;
+    font-kerning: 200%;
+    transform: rotate(15deg);
+    color: red;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+p1 {
+    
+    font-size: 14pt;
+    z-index: 1;
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 5%;
+   margin-right: 5%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+p4 {
+    
+    font-size: 11pt;
+    z-index: 1;
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 5%;
+   margin-right: 5%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+p3 {
+    
+    display: block;
+    font-size: 14pt;
+    z-index: 3;
+    height: auto;
+    position: absolute;
+    margin-top: 125%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+p5 {
+    
+    display: block;
+    font-size: 14pt;
+    z-index: 3;
+    height: auto;
+    position: absolute;
+    margin-top: 195%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+p6 {
+    
+    display: block;
+    font-size: 14pt;
+    z-index: 3;
+    height: auto;
+    position: absolute;
+    margin-top: 393%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "helvetica";
+    
+
+    
+    
+}
+
+
+
+
+

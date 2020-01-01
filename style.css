@@ -182,13 +182,13 @@ p8 {
 
 p1 {
     
-    font-size: 14pt;
+    font-size: 20pt;
     z-index: 1;
     position: absolute;
     margin-top: -3%;
     margin-left: 5%;
    margin-right: 5%;
-    font-kerning: 200%;
+    letter-spacing: 0px;
     transform: rotate(0deg);
     color: white;
     font-family: "helvetica";
@@ -225,7 +225,7 @@ p3 {
     position: absolute;
     margin-top: 125%;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 50%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
@@ -243,9 +243,9 @@ p5 {
     z-index: 3;
     height: auto;
     position: absolute;
-    margin-top: 195%;
+    margin-top: 193%;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 50%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;

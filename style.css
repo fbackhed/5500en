@@ -6,6 +6,13 @@ html, body {
   height: 100%;
 }
 
+@font-face {
+  font-family: 'authentic';
+  src: url('../fonts/AUTHENTICSans-90.otf');
+  font-weight: 100;
+    font-style: normal;
+}
+
 .image7 {
     display: block;
     margin-left: 7%;
@@ -108,7 +115,7 @@ body {
 p {
     
     display: block;
-    font-family:"helvetica";
+    font-family: "authentic";
     font-size: 20pt;
     z-index: 1;
     height: auto;
@@ -135,7 +142,7 @@ p2 {
     font-kerning: 200%;
     transform: rotate(15deg);
     color: red;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
@@ -154,7 +161,7 @@ p7 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: blue;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
@@ -173,7 +180,7 @@ p8 {
     font-kerning: 200%;
     transform: rotate(15deg);
     color: red;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
@@ -191,7 +198,7 @@ p1 {
     letter-spacing: 0px;
     transform: rotate(0deg);
     color: white;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
@@ -209,7 +216,7 @@ p4 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
@@ -229,7 +236,7 @@ p3 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
@@ -249,7 +256,7 @@ p5 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
@@ -269,7 +276,7 @@ p6 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "helvetica";
+    font-family: "authentic";
     
 
     
